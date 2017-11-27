@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainReservatio.Test", "TrainReservatio.Test\TrainReservatio.Test.csproj", "{C4E3250C-A8B4-43E7-A837-ACEB09980280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainReservation", "TrainReservation\TrainReservation.csproj", "{A4663153-3C7F-4FC3-8AED-6049EA18B5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E3250C-A8B4-43E7-A837-ACEB09980280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E3250C-A8B4-43E7-A837-ACEB09980280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E3250C-A8B4-43E7-A837-ACEB09980280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E3250C-A8B4-43E7-A837-ACEB09980280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4663153-3C7F-4FC3-8AED-6049EA18B5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4663153-3C7F-4FC3-8AED-6049EA18B5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4663153-3C7F-4FC3-8AED-6049EA18B5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4663153-3C7F-4FC3-8AED-6049EA18B5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BBE60A-C18D-4255-907E-3665197E5EF0}
+	EndGlobalSection
+EndGlobal
